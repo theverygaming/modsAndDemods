@@ -1,0 +1,9 @@
+[submodule "GFSKdemod/dsp"]
+	path = GFSKdemod/dsp
+	url = https://github.com/theverygaming/shitDSP.git
+[submodule "GFSKmod/dsp"]
+	path = GFSKmod/dsp
+	url = https://github.com/theverygaming/shitDSP.git
+[submodule "PSKmod/dsp"]
+	path = PSKmod/dsp
+	url = https://github.com/theverygaming/shitDSP.git
